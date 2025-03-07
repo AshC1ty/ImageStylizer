@@ -1,7 +1,7 @@
-## The Project
-This project is an image stylizer that applies artistic styles to images using a pre-trained model from TensorFlow Hub. The model transforms input images by applying different artistic styles, creating a visually appealing effect.
+# The Project
+## This project is an image stylizer that applies artistic styles to images using a pre-trained model from TensorFlow Hub. The model transforms input images by applying different artistic styles, creating a visually appealing effect.
 
-## Features
+# Features
 ### Uses a pre-trained deep learning model from TensorFlow Hub
 ### Applies artistic styles to input images
 ### Simple and efficient implementation
